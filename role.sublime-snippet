@@ -3,6 +3,6 @@
 role="$1"
 ]]></content>
 	<tabTrigger>rol</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade, text.pug</scope>
 	<description>role</description>
 </snippet>

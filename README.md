@@ -2,6 +2,10 @@
 
 A collection of Jade snippets. All suggestions are welcome.
 
+## Fork Reason
+This fork version works with Sublime 3, and with both `pug` and `jade` extentions
+
+
 ## Installation
 Strongly recommend to install this repo through Package Control.
 
